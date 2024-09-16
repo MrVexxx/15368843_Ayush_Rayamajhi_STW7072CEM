@@ -1,2 +1,4 @@
 # 15368843_Ayush_Rayamajhi_STW7072CEM
 Machine Learning Coursework files
+
+Documentation File: 15368843_Ayush_Rayamajhi_STW7072CEM_Machine_Learning.pdf
